@@ -1,6 +1,6 @@
 public class BonusMilesService {
-    public int calculate(int cost) {
-        int BonusMile = cost / 20;
+    public int calculate(int Cost) {
+        int BonusMile = Cost / 20;
         return BonusMile;
     }
 }
